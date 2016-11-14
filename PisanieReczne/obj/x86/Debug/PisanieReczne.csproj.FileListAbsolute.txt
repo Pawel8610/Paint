@@ -1,0 +1,46 @@
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\bin\Debug\PisanieReczne.exe
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\bin\Debug\PisanieReczne.pdb
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\obj\x86\Debug\MainWindow.baml
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\obj\x86\Debug\App.g.cs
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\obj\x86\Debug\PisanieReczne_MarkupCompile.cache
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\obj\x86\Debug\PisanieReczne.g.resources
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\obj\x86\Debug\PisanieReczne.Properties.Resources.resources
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\obj\x86\Debug\PisanieReczne.csproj.GenerateResource.Cache
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\obj\x86\Debug\PisanieReczne.exe
+C:\Users\Pawel\AppData\Local\Temporary Projects\PisanieReczne\obj\x86\Debug\PisanieReczne.pdb
+C:\Users\Pawel\documents\visual studio 2010\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.exe
+C:\Users\Pawel\documents\visual studio 2010\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.pdb
+C:\Users\Pawel\Documents\Visual Studio 2010\Projects\PisanieReczne\PisanieReczne\bin\Debug\PisanieReczne.exe
+C:\Users\Pawel\Documents\Visual Studio 2010\Projects\PisanieReczne\PisanieReczne\bin\Debug\PisanieReczne.pdb
+C:\Users\Pawel\Documents\Visual Studio 2010\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\MainWindow.baml
+C:\Users\Pawel\Documents\Visual Studio 2010\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pawel\Documents\Visual Studio 2010\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\App.g.cs
+C:\Users\Pawel\Documents\Visual Studio 2010\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne_MarkupCompile.cache
+C:\Users\Pawel\Documents\Visual Studio 2010\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.g.resources
+C:\Users\Pawel\Documents\Visual Studio 2010\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.Properties.Resources.resources
+C:\Users\Pawel\Documents\Visual Studio 2010\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.csproj.GenerateResource.Cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.exe
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\bin\Debug\PisanieReczne.exe
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\bin\Debug\PisanieReczne.pdb
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\MainWindow.baml
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\App.g.cs
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne_MarkupCompile.cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.g.resources
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.Properties.Resources.resources
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.csproj.GenerateResource.Cache
+C:\Users\Pawel\Documents\Visual Studio 2012\Projects\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.pdb
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.exe
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.pdb
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\bin\Debug\PisanieReczne.exe
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\bin\Debug\PisanieReczne.pdb
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.csprojResolveAssemblyReference.cache
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\MainWindow.baml
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\App.g.cs
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne_MarkupCompile.cache
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.g.resources
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.Properties.Resources.resources
+C:\Users\Pawel\Desktop\PisanieReczne\PisanieReczne\obj\x86\Debug\PisanieReczne.csproj.GenerateResource.Cache
