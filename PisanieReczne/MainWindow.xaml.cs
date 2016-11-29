@@ -88,20 +88,19 @@ namespace PisanieReczne
         }
         void otworzOknoDialogoZapisz()
         {
-            //otworz save dialog box
-            // konfiguracja okna dialogowego Zapisu
+            //open save dialog box
             Microsoft.Win32.SaveFileDialog dlg = new Microsoft.Win32.SaveFileDialog();
             dlg.FileName = "nazwa_pliku"; // domyślna nazwa pliku
             dlg.DefaultExt = ".jpg"; // domyśle rozszerzenie pliku
             dlg.Filter = "Obrazek (.jpg)|*.jpg"; // pokauj tylko pliku *.jpg
 
-           // Pokaz okno dialogowe Zapisu
+           // show save dialog
             Nullable<bool> result = dlg.ShowDialog();
 
-            // Sprawdź zmienna result z okna Dialogowe Zapis
+            
             if (result == true)
             {
-                // Zapisanie dokumentu
+                //saving document
                 nazwaPliku = dlg.FileName;
             }
         }
